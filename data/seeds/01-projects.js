@@ -3,7 +3,7 @@ exports.seed = function(knex, Promise) {
     {
       name: 'Complete Node.js and Express Challenge',
       description:
-        'Build and Awesome API Using Node.js and Express to Manage Projects and Actions GTD Style!',
+        'Build an Awesome API Using Node.js and Express to Manage Projects and Actions GTD Style!',
     },
   ]);
 };
